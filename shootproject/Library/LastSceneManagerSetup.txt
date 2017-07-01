@@ -1,1 +1,4 @@
-sceneSetups: []
+sceneSetups:
+- path: Assets/LOM/Scenes/set_5v5.unity
+  isLoaded: 1
+  isActive: 1
