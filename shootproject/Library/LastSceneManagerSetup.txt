@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/LOM/Scenes/set_5v5.unity
+- path: Assets/SampleScenes/Scenes/AircraftJetAI.unity
   isLoaded: 1
   isActive: 1
